@@ -1,8 +1,10 @@
 ## Task 1 - Fitbit Dataset
 
-1. Read this dataset in pandas , mysql and mongodb 
+* 1. Read this dataset in pandas , mysql and mongodb 
+
 2. while creting a table in mysql dont use manual approach to create it  ,always use a automation to create a table in mysql
   'hint - use csvkit library to automate this task and to load a data in bulk in you mysql' 
+  
 3. convert all the dates avaible in dataset to timestamp format in pandas and in sql you to convert it in date format
 4 . Find out in this data that how many unique id's we have 
 5 . which id is one of the active id that you have in whole dataset 
